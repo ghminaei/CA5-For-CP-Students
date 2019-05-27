@@ -1,40 +1,50 @@
+Bale? chikar dari-_-?
 disp 
 6
 8
 3/4
+Bale? chikar dari-_-?
 add
 6
 8
 2
 9
 35/36
-sub
+Bale? chikar dari-_-?
+min
 Bishtar deghat kon!
+Bale? chikar dari-_-?
 inv
 4
 5
 5/4
-min
+Bale? chikar dari-_-?
+sub
 9
 8
 3
 8
 3/4
+Bale? chikar dari-_-?
 div
 3
 4
 3
 4
 1/1
+Bale? chikar dari-_-?
 mul
 2
 3
 2
 3
 4/9
-min
+Bale? chikar dari-_-?
+sub
 2
 3
 2
 3
 0/1
+Bale? chikar dari-_-?
+exit

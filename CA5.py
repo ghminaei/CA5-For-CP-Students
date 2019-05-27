@@ -29,6 +29,7 @@ class Fraction:
 
 #test code  
 while(True):
+    print("Bale? chikar dari-_-?")
     op = input()
     if op == "exit":
         #your code
@@ -42,7 +43,7 @@ while(True):
         #your code
         pass
 
-    elif op == "min":
+    elif op == "sub":
         #your code
         pass
 
